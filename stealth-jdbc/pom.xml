@@ -49,7 +49,7 @@
 		<repository>
 			<id>Stealth GitHub Repository</id>
 			<name>GitHub Stealth Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/clarkent91/stealth-jdbc</url>
+			<url>https://maven.pkg.github.com/clarkent91/stealth</url>
 		</repository>
 	</distributionManagement>
     <dependencies>
